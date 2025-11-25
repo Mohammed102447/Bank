@@ -1,0 +1,41 @@
+﻿  project level11.cpp
+d:\darwish\project level11\project level11\clsstring.h(39): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+d:\darwish\project level11\project level11\clsstring.h(44): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+d:\darwish\project level11\project level11\clsstring.h(56): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+d:\darwish\project level11\project level11\clsstring.h(87): warning C4018: '<': signed/unsigned mismatch
+d:\darwish\project level11\project level11\clsstring.h(114): warning C4018: '<': signed/unsigned mismatch
+d:\darwish\project level11\project level11\clsstring.h(140): warning C4018: '<': signed/unsigned mismatch
+d:\darwish\project level11\project level11\clsstring.h(154): warning C4018: '<': signed/unsigned mismatch
+d:\darwish\project level11\project level11\clsstring.h(173): warning C4018: '<': signed/unsigned mismatch
+d:\darwish\project level11\project level11\clsstring.h(193): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+d:\darwish\project level11\project level11\clsstring.h(198): warning C4018: '<': signed/unsigned mismatch
+d:\darwish\project level11\project level11\clsstring.h(220): warning C4018: '<': signed/unsigned mismatch
+d:\darwish\project level11\project level11\clsstring.h(241): warning C4018: '<': signed/unsigned mismatch
+d:\darwish\project level11\project level11\clsstring.h(262): warning C4018: '<': signed/unsigned mismatch
+d:\darwish\project level11\project level11\clsstring.h(299): warning C4018: '<': signed/unsigned mismatch
+d:\darwish\project level11\project level11\clsstring.h(324): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+d:\darwish\project level11\project level11\clsstring.h(353): warning C4018: '<': signed/unsigned mismatch
+d:\darwish\project level11\project level11\clsstring.h(372): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+d:\darwish\project level11\project level11\clsstring.h(497): warning C4018: '<': signed/unsigned mismatch
+d:\darwish\project level11\project level11\clsbankclient.h(29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\darwish\project level11\project level11\clsbankclient.h(141): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\darwish\project level11\project level11\clsbankclient.h(142): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\darwish\project level11\project level11\clsbankclient.h(143): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\darwish\project level11\project level11\clsbankclient.h(354): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\darwish\project level11\project level11\clsbankclient.h(366): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\darwish\project level11\project level11\clsinputvalidate.h(115): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\darwish\project level11\project level11\clsinputvalidate.h(119): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\darwish\project level11\project level11\clsutil.h(64): warning C4102: 'defualt': unreferenced label
+d:\darwish\project level11\project level11\clsutil.h(287): warning C4018: '<=': signed/unsigned mismatch
+d:\darwish\project level11\project level11\clsutil.h(301): warning C4018: '<=': signed/unsigned mismatch
+d:\darwish\project level11\project level11\clsaddclientscreen.h(23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\darwish\project level11\project level11\clsupdateclientscreen.h(37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\darwish\project level11\project level11\clstotalbalancesscreen.h(57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\darwish\project level11\project level11\clstransferscreen.h(38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\darwish\project level11\project level11\clstransferscreen.h(42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\darwish\project level11\project level11\clsupdatecurrencyratescreen.h(13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\darwish\project level11\project level11\clscurrencycalculatorscreen.h(12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\darwish\project level11\project level11\clsloginscreen.h(29): warning C4129: ' ': unrecognized character escape sequence
+d:\darwish\project level11\project level11\clsbankclient.h(209): warning C4715: 'clsBankClient::eSave': not all control paths return a value
+d:\darwish\project level11\project level11\clsuser.h(275): warning C4715: 'clsUser::enSave': not all control paths return a value
+  project level11.vcxproj -> D:\darwish\project level11\Debug\project level11.exe
